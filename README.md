@@ -4,9 +4,7 @@
 * It is 2d chess game that works with unity
 * It is devised so that the king cannot check
 * Special move
-　・EnPassant
-　・Castling
-  ・Promotion
+　　EnPassant/Castling/Promotion
 * Determine checkmate or stalemate
  
 # Requirement
