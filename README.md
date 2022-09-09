@@ -1,4 +1,4 @@
-# Unity_chess_project
+# chess_2D_offline
 
 # Features
 * It is 2d chess game that works with unity
