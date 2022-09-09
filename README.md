@@ -3,9 +3,11 @@
 # Features
 * It is 2d chess game that works with unity
 * It is devised so that the king cannot check
-* special move
+* Special move
 　・EnPassant
 　・Castling
+  ・Promotion
+* Determine checkmate or stalemate
  
 # Requirement
 * Unity 3.1.2
