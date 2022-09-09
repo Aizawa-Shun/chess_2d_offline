@@ -3,8 +3,7 @@
 # Features
 * It is 2d chess game that works with unity
 * It is devised so that the king cannot check
-* Special move
-　　EnPassant/Castling/Promotion
+* Special moveEnPassant/Castling/Promotion
 * Determine checkmate or stalemate
  
 # Requirement
